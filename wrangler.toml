@@ -1,0 +1,4 @@
+name = "bagua-cover-proxy"
+main = "src/index.js"
+compatibility_date = "2026-06-05"
+workers_dev = true
